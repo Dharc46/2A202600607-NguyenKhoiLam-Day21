@@ -1,0 +1,12 @@
+torch==2.10.0
+transformers==5.5.0
+trl==0.15.2
+datasets
+accelerate
+bitsandbytes
+peft
+matplotlib
+numpy
+pandas
+seaborn
+unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
